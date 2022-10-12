@@ -1,0 +1,6 @@
+{
+  "name": "mono-test",
+  "workspaces": [
+    "packages/*"
+  ]
+}
